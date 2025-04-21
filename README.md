@@ -62,5 +62,4 @@ To measure model performance the following evaluation metrics are used to evalua
 *   We have created a UI where user can upload MRI scan and the model classifies stage of Alzheimer’s.
 
 **Results:**
-
-
+![Image](https://github.com/user-attachments/assets/a948c1de-5684-4544-8201-6218a9d7110e)
