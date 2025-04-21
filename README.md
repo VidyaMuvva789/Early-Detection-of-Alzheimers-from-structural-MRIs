@@ -46,6 +46,8 @@ To measure model performance the following evaluation metrics are used to evalua
 | ResNet101 | 85.9% | 0.865 | 0.855 | 0.975 |
 | EfficientNetB0 | 71.09% | 0.719 | 0.699 | 0.917 |
 
+![Image](https://github.com/user-attachments/assets/a948c1de-5684-4544-8201-6218a9d7110e)
+
 **Technologies Used:**
 
 *   TensorFlow: An open-source machine learning framework used for building and training deep learning models.
@@ -63,5 +65,4 @@ To measure model performance the following evaluation metrics are used to evalua
 
 **Results:**
 
-![Image](https://github.com/user-attachments/assets/a948c1de-5684-4544-8201-6218a9d7110e)
 ![Image](https://github.com/user-attachments/assets/855cd194-a488-4228-9e24-7946e0f60cb6)
