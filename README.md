@@ -33,13 +33,6 @@ Training set (5119), Test set (642), Validation set (639)
 We have selected three models CNN, ResNet101 and EffecientNetB0.
 
 *   CNN is a deep learning model specifically designed for image classification. It consists of convolutional layers that extract important features, followed by pooling layers to reduce dimensionality. Dropout (20%) of connections to prevent overfitting.
-
-| Model | Accuracy | Precision | Recall | AUC |
-| --- | --- | --- | --- | --- |
-| CNN | 98.36% | 0.984 | 0.983 | 0.983 |
-| ResNet101 | 85.9% | 0.865 | 0.855 | 0.975 |
-| EfficientNetB0 | 71.09% | 0.719 | 0.699 | 0.917 |
-
 *   ResNet101 is a 101-layer deep residual network known for its skip connections (residual connections). These connections prevent the vanishing gradient problem, allowing very deep networks to learn efficiently and can learn complex patterns effectively.
 *   EfficientNetB0 is a highly optimized CNN architecture that balances model depth, width, and resolution. EfficientNetB0 is the smallest version but offers excellent accuracy with fewer parameters.
 *   Transfer Learning is used where pretrained ImageNet is fine tuned and trained on our dataset.
@@ -47,6 +40,11 @@ We have selected three models CNN, ResNet101 and EffecientNetB0.
 **Model Evaluation:**
 
 To measure model performance the following evaluation metrics are used to evaluate models performance accuracy, precision, recall, AUC.
+| Model | Accuracy | Precision | Recall | AUC |
+| --- | --- | --- | --- | --- |
+| CNN | 98.36% | 0.984 | 0.983 | 0.983 |
+| ResNet101 | 85.9% | 0.865 | 0.855 | 0.975 |
+| EfficientNetB0 | 71.09% | 0.719 | 0.699 | 0.917 |
 
 **Technologies Used:**
 
