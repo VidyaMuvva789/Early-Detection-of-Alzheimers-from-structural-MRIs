@@ -8,16 +8,16 @@ Machine learning (ML) techniques, particularly deep learning models, are highly 
 
 *   The dataset used for Alzheimer’s disease detection is sourced from kaggle and comprises 6400 MRI scan images categorized into four classes:
 
-Non- Demented - (3200)
-
-Very Mild Demented - (2240)
-
-Mild Demented - (896)
-
-Moderate Demented - (64)
+      Non- Demented - (3200)
+      
+      Very Mild Demented - (2240)
+      
+      Mild Demented - (896)
+      
+      Moderate Demented - (64)
 
 *   Out of 6400 images we have classified 80% - train data, 10% - test and 10% - validation.  
-Training set (5119), Test set (642), Validation set (639)
+          Training set (5119), Test set (642), Validation set (639)
 
 **Data Preprocessing:**
 
